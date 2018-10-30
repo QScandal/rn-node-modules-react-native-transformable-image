@@ -1,0 +1,46 @@
+{
+  "_from": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git",
+  "_id": "react-native-transformable-image@0.0.18",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-transformable-image",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git",
+    "rawSpec": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git",
+    "saveSpec": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git",
+    "fetchSpec": "http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git#3ca2881d3c9c7b3d8176f6f9e881472a9872db47",
+  "_shasum": "00229f2410c443a3a6b5fa53714121ecd882396f",
+  "_spec": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-transformable-image.git",
+  "_where": "/Users/peng/Desktop/work/RN/OnlineRN",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ldn0x7dc/react-native-transformable-image/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-view-transformer": "git+http://123.196.126.61:6080/peng/rn-node-modules-react-native-view-transformer.git"
+  },
+  "deprecated": false,
+  "description": "A pure JavaScript written transformable image component, like PhotoView or ImageViewer, supports gestures like pan, pinch, double tab and fling, works with both iOS and Android.",
+  "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
+  "license": "ISC",
+  "main": "library/TransformableImage.js",
+  "name": "react-native-transformable-image",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldn0x7dc/react-native-transformable-image.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.18"
+}
